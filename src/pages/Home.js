@@ -1,13 +1,3 @@
-<<<<<<< HEAD
-const Home = () => {
-  return (
-    <section className='section'>
-      <h2>Home Page</h2>
-    </section>
-  );
-};
-export default Home;
-=======
 import { Link } from "react-router-dom"
 
 const Home = () => {
@@ -21,4 +11,3 @@ const Home = () => {
   )
 }
 export default Home
->>>>>>> master
