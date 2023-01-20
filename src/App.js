@@ -1,10 +1,3 @@
-<<<<<<< HEAD
-function App() {
-  return <h2>React Router 6 Tutorial</h2>;
-}
-
-export default App;
-=======
 import { BrowserRouter, Routes, Route } from "react-router-dom"
 
 import Home from "./pages/Home"
@@ -28,4 +21,3 @@ function App() {
 }
 
 export default App
->>>>>>> master
